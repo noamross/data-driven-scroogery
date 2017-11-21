@@ -166,7 +166,7 @@ ggplot(cc, aes(x = yr, y=dec_views/1e6)) +
 ```
 
 We get almost the same result! Though maybe, just maybe, the flood
-has lost some momentum this year. 
+ as lost some momentum this year. 
 
 Happy Holidays.
 
