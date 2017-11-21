@@ -5,7 +5,7 @@ date: 2017-11-20
 output: html_document
 ---
 
-I had to go shopping for a family birthday and new apartment stuff this. I
+I had to go shopping for a family birthday and new apartment stuff this past weekend. I
 entered the big, bright department store and froze, with instant regret and dread, because I heard the foreboding sounds of this phenomenon:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It begins. <a href="https://t.co/sIqgGZcKfF">pic.twitter.com/sIqgGZcKfF</a></p>&mdash; Zach Cole 🌈 (@ZachACole) <a href="https://twitter.com/ZachACole/status/793920311414534144?ref_src=twsrc%5Etfw">November 2, 2016</a></blockquote>
